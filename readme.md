@@ -14,6 +14,9 @@
         <li class="item">
             <a href="https://es.wikipedia.org/wiki/JavaScript">JavaScript</a>
         </li>
+        <li class="item">
+            <a href="https://es.wikipedia.org/wiki/Python">Python</a>
+        </li>
     </ul>
 </div>
 </body>
